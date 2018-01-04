@@ -15,8 +15,7 @@
 ?>
 
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="pt-br">
 <head>
-	<script>alert("Thank you for contact us. As early as possible  we will contact you.");</script>
-	<meta HTTP-EQUIV="REFRESH" content="0; url=http://trendytheme.net/demo/iamx/v/"> 
+	<script>alert("Obrigado pelo contato, aguarde o retorno.");</script>
 </head>
